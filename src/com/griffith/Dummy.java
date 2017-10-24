@@ -3,6 +3,11 @@ package com.griffith;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Dummy
+ * @author gjj
+ *
+ */
 public class Dummy {
 
 	public boolean isDay() {
