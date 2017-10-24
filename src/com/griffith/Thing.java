@@ -1,5 +1,10 @@
 package com.griffith;
 
+/**
+ * Thing
+ * @author gjj
+ *
+ */
 public class Thing {
 	private String name;
 
